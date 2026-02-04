@@ -36,7 +36,7 @@ The companies main database structure as seen below consists of four tables: Fac
 
 The overall analysis shows that sales growth has not translated into profitable margins, primarily due to aggressive discounting beyond a viable threshold. Net profit was mostly fragile across years, then turned negative even during the high GMV period. These losses are concentrated in a small number of high GMV states and in the product categories like Tables and Bookcases, which are heavily affected by the discounting strategy.
 
-![Project Excel Dashboard](0_resources/images/5_furnicraft_dashboard.gif)
+![Project Excel Dashboard](0_resources/images/5_furnicraft_dashboard.png)
 
 
 
