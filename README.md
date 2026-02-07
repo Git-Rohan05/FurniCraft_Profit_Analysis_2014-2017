@@ -1,6 +1,7 @@
-<div style="text-align: center;">
-    <img src="0_resources/images/company_title.png" alt="Company title" />
-</div>
+<p align="center">
+  <img src="0_resources/images/company_title.png" alt="Company title">
+</p>
+
 
 # Project Background
 FurniCraft Retails, a furniture retail company selling furniture-related products to thousands of customers throughout the United States since 2014. The company noticed low profit margins despite high sales volume healthy average order value(AOV). The goal of this project is to provide insights & recommendations that may improve the profit margins by analyzing key sales levers, such as discounts,product categories, segments and regions.
